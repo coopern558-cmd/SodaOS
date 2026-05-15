@@ -43,3 +43,10 @@ Install dependencies in Ubuntu/WSL:
 ```bash
 sudo apt update
 sudo apt install -y build-essential gcc-multilib binutils nasm grub-pc-bin xorriso qemu-system-x86
+```
+
+## Screenshots
+
+<img width="1277" height="797" alt="SodaOS screenshot 1" src="https://github.com/user-attachments/assets/5491dbb0-a131-456d-91f6-0773b857b650" />
+
+<img width="1277" height="800" alt="SodaOS screenshot 2" src="https://github.com/user-attachments/assets/86b43c8d-4992-4bb8-9ac8-36591c965390" />
