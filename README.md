@@ -47,6 +47,26 @@ sudo apt install -y build-essential gcc-multilib binutils nasm grub-pc-bin xorri
 
 ## Screenshots
 
-<img width="1277" height="797" alt="SodaOS screenshot 1" src="https://github.com/user-attachments/assets/5491dbb0-a131-456d-91f6-0773b857b650" />
+Login Screen
 
-<img width="1277" height="800" alt="SodaOS screenshot 2" src="https://github.com/user-attachments/assets/86b43c8d-4992-4bb8-9ac8-36591c965390" />
+<img width="1278" height="797" alt="image" src="https://github.com/user-attachments/assets/00e0f0c3-f9f4-4e63-9dea-318ec9b6f0e8" />
+
+Home Page
+
+<img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/70160bbb-07f7-4bc9-8660-b1cdcecdb1af" />
+
+Terminal
+
+<img width="1278" height="797" alt="image" src="https://github.com/user-attachments/assets/67a38b32-146f-4ba8-aa8d-3c66424f66fd" />
+
+Files
+
+<img width="1278" height="797" alt="image" src="https://github.com/user-attachments/assets/4afa9320-144f-4a53-9a8e-f009b6482589" />
+
+Notes
+
+<img width="1280" height="802" alt="image" src="https://github.com/user-attachments/assets/9f064b05-3229-422f-9b81-1ac5fffc582c" />
+
+Settings
+
+<img width="1275" height="795" alt="image" src="https://github.com/user-attachments/assets/6819bd91-c38b-42c9-a595-1e0e9badc2b7" />
